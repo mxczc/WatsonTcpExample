@@ -1,0 +1,14 @@
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\obj\Debug\TcpClient.FrmClient.resources
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\obj\Debug\TcpClient.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\obj\Debug\TcpClient.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\obj\Debug\TcpClient.pdb
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\bin\Debug\WatsonTcp.dll
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\bin\Debug\WatsonTcp.xml
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpClient\obj\Debug\TcpClient.csproj.CopyComplete

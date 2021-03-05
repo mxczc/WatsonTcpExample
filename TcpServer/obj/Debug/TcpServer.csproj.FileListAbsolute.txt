@@ -1,0 +1,15 @@
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\bin\Debug\WatsonTcp.dll
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\bin\Debug\WatsonTcp.xml
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\obj\Debug\TcpServer.FrmServer.resources
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\obj\Debug\TcpServer.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\Administrator\Source\Repos\Blog.Example\TcpServer\obj\Debug\TcpServer.pdb
